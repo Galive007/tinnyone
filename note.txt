@@ -1,0 +1,91 @@
+*************Notes************
+project name:figma E-school
+
+
+
+font:
+
+Poppins 400,700
+font-family: 'PT Sans', sans-serif;
+
+Roboto 400
+font-family: 'Roboto', sans-serif;
+
+
+
+
+
+color:
+N.bg- #fcdb00
+yellow- #fcdb00 
+Ash- #898989
+Black- #010101
+{hover}-#
+footer- black(Txt-white)
+
+
+
+header:
+
+
+
+
+
+
+layout------
+Header
+banner
+feature
+{keep_in
+footer
+}
+
+
+section
+menu{
+	Books
+	Courses
+	Others
+	Blog
+}
+
+
+
+semantic
+code comment
+reuse
+code.repetation
+
+
+**************************
+xxl		1440-1600-1800-2100
+xxl		1200
+lg		1024
+
+md		768
+
+sm 		576
+col 	320
+
+
+----------hader
+		xxl/xl/lg		md		sm/col
+menu	   							
+
+
+slider-----------------
+		xxl/xl/lg		md		sm/col
+<h1>
+<h2>
+<p>
+<icon>							
+pb-			100 		100 		60
+
+feature=============
+				xxl/xl/lg		md		sm/col
+	pt 				100 					70
+	pb 				120 					50	
+
+
+			
+
