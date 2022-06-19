@@ -9,6 +9,9 @@
 	header {
     padding: 6px 0;
 	}
+	.s_text h1{
+	font-size:27px;
+	}
 	.menu ul li a {
     padding: 5px 0 !important;
 
